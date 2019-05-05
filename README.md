@@ -87,6 +87,6 @@ S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 
 #### Labs and Assignments
 
-1. <iframe src="https://github.com/sathishnotes/rvscas/raw/master/Anagrams.pdf" width="100%" height="100%"></iframe>
+1. <embed src="https://github.com/sathishnotes/rvscas/raw/master/Anagrams.pdf" width="100%" height="100%"></embed>
 
 
