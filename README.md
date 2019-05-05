@@ -26,7 +26,7 @@ This course focuses on training the students in computer science fundamentals th
 
 #### Detailed Training Schedule
 
-##### Session - I
+#### Session - I
 
 S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 -----| ----- | --------- | -------------
@@ -43,7 +43,7 @@ S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 |  | Files | 15 Minutes
 |  | Getting around with slack & Assignment - I | 10 Minutes
 
-##### Session - II
+#### Session - II
 
 S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 -----| ----- | --------- | -------------
@@ -54,7 +54,7 @@ S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 |  | Stacks and Queues | 20 Minutes
 |  | Permutations, Combinations and Bit Manipulation | 20 Minutes
 
-##### Session - III
+#### Session - III
 
 S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 -----| ----- | --------- | -------------
@@ -66,7 +66,7 @@ S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 |  | Static and Final Keywords | 15 Minutes
 2    | Scenario based problems | Problem : It's all about Magic | 20 Minutes
 
-##### Session - IV
+#### Session - IV
 
 S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 -----| ----- | --------- | -------------
@@ -87,4 +87,9 @@ S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 
 #### Labs and Assignments
 
+#### Lab - I Instructions
 
+1. Save the file from the [link](https://github.com/sathishnotes/rvscas/blob/master/PythonExercises.ipynb)  
+2. Visit https://colab.research.google.com from your browser  
+3. click File -> open notebook -> select the downloaded notebook from your PC  
+4. Complete the exercises  
