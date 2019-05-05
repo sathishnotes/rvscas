@@ -26,6 +26,6 @@ This course focuses on training the students in computer science fundamentals th
 
 #### Detailed Training Schedule
 
-First Header | Second Header
------------- | -------------
-Content cell 1 | Content cell 2
+S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
+-----| ----- | --------- | -------------
+1    | Problem Solving | How to approach a problem ? | 10 Minutes
