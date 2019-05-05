@@ -64,7 +64,7 @@ S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 |  | | Static binding and Late binding | 30 Minutes
 |  | | Inheritance and Polymorphism | 30 Minutes
 |  | | Static and Final Keywords | 15 Minutes
-2    | Object Oriented Case Study - Discussion | Case study on object oriented paradigm | 20 Minutes
+2    | Scenario based problems | Problem : It's all about Magic | 20 Minutes
 
 ##### Session - IV
 
@@ -87,4 +87,6 @@ S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 
 #### Labs and Assignments
 
-1. Session - I Lab
+1. <iframe src="https://github.com/sathishnotes/rvscas/raw/master/Anagrams.pdf" width="100%" height="100%"></iframe>
+
+
