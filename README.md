@@ -90,6 +90,6 @@ S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 #### Lab - I Instructions
 
 1. Save the file from the [link](https://github.com/sathishnotes/rvscas/blob/master/PythonExercises.ipynb)  
-2. Visit https://colab.research.google.com from your browser  
-3. click File -> open notebook -> select the downloaded notebook from your PC  
+2. Click this [link](https://colab.research.google.com)  
+3. From the menu, Select File -> open notebook -> select the downloaded notebook from your PC  
 4. Complete the exercises  
