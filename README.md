@@ -1,7 +1,7 @@
 ### RVSCAS "Summer Placement Training - Technical Training"  
   
 Trainer :  
-<img src="https://github.com/sathishnotes/rvscas/raw/master/DSC_7028%20pp.jpg" alt="sathish" width="200"/>
+<img src="https://github.com/sathishnotes/rvscas/raw/master/DSC_7028%20pp.jpg" alt="sathish" width="100"/>
 Sathish  
 Corporate Trainer - Technical  
 RVS Educational Trust
