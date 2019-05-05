@@ -11,3 +11,10 @@ This course focuses on training the students in computer science fundamentals th
           3. Algorithms and Data Structures - (Selected Topics)
           4. Object Oriented Concepts - (Selected Topics)
 
+Trainer:
+
+![sathish](https://github.com/sathishnotes/rvscas/raw/master/DSC_7028%20pp.jpg)
+
+Sathish  
+Corporate Trainer - Technical  
+RVS Educational Trust
