@@ -21,4 +21,11 @@ This course focuses on training the students in computer science fundamentals th
 
 #### Training Schedule
 
-<img src="https://github.com/sathishnotes/rvscas/raw/master/timetable.png" alt="timetable" align="middle"/>
+<img src="https://github.com/sathishnotes/rvscas/raw/master/timetable.png" alt="timetable" align="middle"/>  
+  
+
+#### Detailed Training Schedule
+
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
