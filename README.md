@@ -48,22 +48,22 @@ S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 -----| ----- | --------- | -------------
 1    | Data Structures and Algorithms | Asymptotic Notations & Examples | 10 Minutes
-|  | | Sorting | 20 Minutes
-|  | | Searching | 20 Minutes
-|  | | Recursion and Dynamic Programming | 30 Minutes
-|  | | Stacks and Queues | 20 Minutes
-|  | | Permutations, Combinations and Bit Manipulation | 20 Minutes
+|  | Sorting | 20 Minutes
+|  | Searching | 20 Minutes
+|  | Recursion and Dynamic Programming | 30 Minutes
+|  | Stacks and Queues | 20 Minutes
+|  | Permutations, Combinations and Bit Manipulation | 20 Minutes
 
 ##### Session - III
 
 S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 -----| ----- | --------- | -------------
 1    | Object Oriented Concepts | Objects and Classes | 15 Minutes
-|  | | Constructors and Methods | 20 Minutes
-|  | | Overloading and Overriding | 30 Minutes
-|  | | Static binding and Late binding | 30 Minutes
-|  | | Inheritance and Polymorphism | 30 Minutes
-|  | | Static and Final Keywords | 15 Minutes
+|  | Constructors and Methods | 20 Minutes
+|  | Overloading and Overriding | 30 Minutes
+|  | Static binding and Late binding | 30 Minutes
+|  | Inheritance and Polymorphism | 30 Minutes
+|  | Static and Final Keywords | 15 Minutes
 2    | Scenario based problems | Problem : It's all about Magic | 20 Minutes
 
 ##### Session - IV
@@ -72,7 +72,7 @@ S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 -----| ----- | --------- | -------------
 1    | Competitive Programming | Online Programming | 60 Minutes
 2    | Online Programming Assessment | Multiple Choice Questions on <ul><li>Problem Solving</li><li>Data Structures</li><li>Algorithms</li><li>Object Oriented Concepts</li></ul> | 30 Minutes
-|  | | Programming Question | 30 Minutes
+|  | Programming Question | 30 Minutes
 
 
 #### References and Resources
@@ -86,7 +86,5 @@ S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 7. For Competitive Programming, "HackerRank" and "HackerEarth" would be good enough.
 
 #### Labs and Assignments
-
-1. <embed src="https://github.com/sathishnotes/rvscas/raw/master/Anagrams.pdf" type="application/pdf" width="100%" height="600px" />
 
 
