@@ -8,7 +8,7 @@
     RVS Educational Trust   
     Email: sathish@rvsgroup.com         
 
-#### Course Description
+#### Training Description
 
 This course focuses on training the students in computer science fundamentals that are required by the IT Core Companies during placement @ RVSCAS.  
   
@@ -19,5 +19,6 @@ This course focuses on training the students in computer science fundamentals th
           3. Algorithms and Data Structures - (Selected Topics)
           4. Object Oriented Concepts - (Selected Topics)
 
+#### Training Schedule
 
-
+<img src="https://github.com/sathishnotes/rvscas/raw/master/timetable.png" alt="timetable" align="middle"/>
