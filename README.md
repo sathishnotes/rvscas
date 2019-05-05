@@ -31,17 +31,17 @@ This course focuses on training the students in computer science fundamentals th
 S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 -----| ----- | --------- | -------------
 1    | Problem Solving | Problem Solving Approach | 10 Minutes
-|  | |Example Interview Problem (EASY): Anagram Detection | 20 Minutes
-|  | |Example Interview Problem (MEDIUM): TWO SUM | 20 Minutes
-|  | |Interview Experience <ul><li>Example Puzzle</li><li>Example Programming Problem</li></ul>| 15 Minutes
+|  | Example Interview Problem (EASY): Anagram Detection | 20 Minutes
+|  | Example Interview Problem (MEDIUM): TWO SUM | 20 Minutes
+|  | Interview Experience <ul><li>Example Puzzle</li><li>Example Programming Problem</li></ul>| 15 Minutes
 2    | Programming using Python | Python, Working with Colab, Python Notebooks | 10 Minutes
-|  | | Python Variables  <ul><li>integer</li><li>string</li><li>float</li></ul> | 10 Minutes
-|  | | Range, Loops, Conditionals | 10 Minutes
-|  | | Lists and Tuples | 20 Minutes
-|  | | Strings | 10 Minutes
-|  | | Sets and Dictionaries | 20 Minutes
-|  | | Files | 15 Minutes
-|  | | Getting around with slack & Assignment - I | 10 Minutes
+|  | Python Variables  <ul><li>integer</li><li>string</li><li>float</li></ul> | 10 Minutes
+|  | Range, Loops, Conditionals | 10 Minutes
+|  | Lists and Tuples | 20 Minutes
+|  | Strings | 10 Minutes
+|  | Sets and Dictionaries | 20 Minutes
+|  | Files | 15 Minutes
+|  | Getting around with slack & Assignment - I | 10 Minutes
 
 ##### Session - II
 
