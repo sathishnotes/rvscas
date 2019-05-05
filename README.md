@@ -1,5 +1,10 @@
 ### RVSCAS "Summer Placement Training - Technical Training"  
   
+Trainer : ![sathish](https://github.com/sathishnotes/rvscas/raw/master/DSC_7028%20pp.jpg = 250x)
+Sathish  
+Corporate Trainer - Technical  
+RVS Educational Trust
+
 #### Course Description
 
 This course focuses on training the students in computer science fundamentals that are required by the IT Core Companies during placement @ RVSCAS.  
@@ -11,10 +16,5 @@ This course focuses on training the students in computer science fundamentals th
           3. Algorithms and Data Structures - (Selected Topics)
           4. Object Oriented Concepts - (Selected Topics)
 
-Trainer:
 
-![sathish](https://github.com/sathishnotes/rvscas/raw/master/DSC_7028%20pp.jpg)
 
-Sathish  
-Corporate Trainer - Technical  
-RVS Educational Trust
