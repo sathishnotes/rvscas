@@ -1,9 +1,9 @@
 ### RVSCAS "Summer Placement Training - Technical Training"  
 
-#### Trainer  
+#### Instructor    
    <img src="https://github.com/sathishnotes/rvscas/raw/master/DSC_7028%20pp.jpg" alt="sathish" width="100"/>       
         
-    Sathish   
+    Mr.G.Sathish   
     Corporate Trainer - Technical     
     RVS Educational Trust   
     Email: sathish@rvsgroup.com         
