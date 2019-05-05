@@ -29,4 +29,4 @@ This course focuses on training the students in computer science fundamentals th
 S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 -----| ----- | --------- | -------------
 1    | Problem Solving | How to approach a problem ? | 10 Minutes
-     |                 | Example Interview Problem   |
+     |                 | Example Interview Problem   | 20 Minutes
