@@ -28,5 +28,9 @@ This course focuses on training the students in computer science fundamentals th
 
 S.NO | TOPIC | SUB-TOPIC | PLANNED HOURS
 -----| ----- | --------- | -------------
-1    | Problem Solving | How to approach a problem ? | 10 Minutes
-|  | |Example Interview Problem : Anagram Detection | 20 Minutes
+1    | Problem Solving | Problem Solving Approach | 10 Minutes
+|  | |Example Interview Problem (EASY): Anagram Detection | 20 Minutes
+|  | |Example Interview Problem (MEDIUM): TWO SUM | 30 Minutes
+|  | |Interview Experience | 15 Minutes
+2    | Programming using Python | Python Introduction | 5 Minutes
+|  | | Python Variables : <ul><li>integer</li><li>string</li><li>float</li></ul> | 15 Minutes
